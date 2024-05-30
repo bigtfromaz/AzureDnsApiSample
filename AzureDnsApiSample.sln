@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDnsApiSample", "AzureDnsApiSample.csproj", "{14D38553-DE17-48AC-AD39-15B2D102186A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8034D8E5-61CD-4291-909C-585B40C839FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D38553-DE17-48AC-AD39-15B2D102186A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D38553-DE17-48AC-AD39-15B2D102186A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D38553-DE17-48AC-AD39-15B2D102186A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D38553-DE17-48AC-AD39-15B2D102186A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CB2DEA-4BC1-4AFB-A642-93A52004DF7C}
+	EndGlobalSection
+EndGlobal
